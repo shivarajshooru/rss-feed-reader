@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rss-feed-reader/static/css/main.824e7fa4.chunk.css",
+    "main.js": "/rss-feed-reader/static/js/main.b691517c.chunk.js",
+    "main.js.map": "/rss-feed-reader/static/js/main.b691517c.chunk.js.map",
+    "runtime-main.js": "/rss-feed-reader/static/js/runtime-main.19c400d1.js",
+    "runtime-main.js.map": "/rss-feed-reader/static/js/runtime-main.19c400d1.js.map",
+    "static/js/2.b3f4a6a8.chunk.js": "/rss-feed-reader/static/js/2.b3f4a6a8.chunk.js",
+    "static/js/2.b3f4a6a8.chunk.js.map": "/rss-feed-reader/static/js/2.b3f4a6a8.chunk.js.map",
+    "static/js/3.d5798fa8.chunk.js": "/rss-feed-reader/static/js/3.d5798fa8.chunk.js",
+    "static/js/3.d5798fa8.chunk.js.map": "/rss-feed-reader/static/js/3.d5798fa8.chunk.js.map",
+    "index.html": "/rss-feed-reader/index.html",
+    "static/css/main.824e7fa4.chunk.css.map": "/rss-feed-reader/static/css/main.824e7fa4.chunk.css.map",
+    "static/js/2.b3f4a6a8.chunk.js.LICENSE.txt": "/rss-feed-reader/static/js/2.b3f4a6a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c400d1.js",
+    "static/js/2.b3f4a6a8.chunk.js",
+    "static/css/main.824e7fa4.chunk.css",
+    "static/js/main.b691517c.chunk.js"
+  ]
+}
