@@ -1,38 +1,127 @@
-.App {
+.main {
   text-align: center;
+  background-color: #575f6a;
+ 
+  color:white;
+  
+}
+.head {
+  font-weight: 100;
+  color: #aab1b9;
+  margin: 10px;
+  font-family: lato;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.input {
+  border-radius: 15px;
+  background: #475057;
+  width:300px;
+  padding: 10px 10px;
+  margin-right: 10px;
+  margin-left: 4vw;
+  border-color: #aab1b9;
+  border-width: 2px;
+  color: #aab1b9;
+  font-family: lato;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App .searchText,.date {
+  color:white;
+  font-size: large;
+  font-family: lato;
+}
+.ring{
+  color: white;
+  margin-top: 2px;
+ 
+  font-family: lato;
+ 
+
+ 
+}
+.searchcon{
+  display: flex;
+  justify-content:space-between;
+  font-family: lato;
+ 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App .cancel{
+color: palevioletred;
+margin-right:450px;
+margin-top: 5px;
+font-family: lato;
+
+}
+.App .searchItem {
+
+margin:0px 20px 0px 450px;
+color: white;
+
+}
+
+.itemspan{
+  margin:0 0 25px 15px;
+  
+}
+hr{
+  margin: 20px 450px 20px 450px;
+}
+.footer{
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-family: lato;
+}
+.finput{
+  border-radius: 15px;
+  background: #475057;
+  width:300px;
+  padding: 10px 10px;
+  margin: 10px 0 0 10px;
+  border-color: #aab1b9;
+  border-width: 2px;
+  color: #aab1b9;
+  font-family: lato;
+}
+.fbutton{
+  border-radius: 15px;
+  color: aliceblue;
+  width:320px;
+  padding: 10px 10px;
+  margin: 10px 0 0 10px;
+ 
+ 
+  background-color: rgb(89 171 229 / 95%);
+  font-family: lato;
 }
 
-.App-link {
-  color: #61dafb;
+.feedsHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #575f6a;
+width:40vw;
+margin-left: 25vw;
+margin-top: 2vw;
+height: 5vw;
+padding: 0 1vw 0 1vw
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.feeds {
+  width:35vw;
+  margin-left: 28vw;
+  margin-top: 2vw;
+  
+
+}
+.itemTitle {
+  color: rgb(158 158 158);
+  font-size: 20px;
+
+}
+.itemDes {
+  font-weight: bold;
 }
